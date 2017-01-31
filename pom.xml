@@ -6,11 +6,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>someip-common</module>
-		<module>someip-client</module>
+		<module>someip-core</module>
 		<module>someip-server</module>
-		<module>someip-api</module>
-		<module>someip-impl</module>
 	</modules>
 	<properties>
 		<springframework.version>4.2.1.RELEASE</springframework.version>
